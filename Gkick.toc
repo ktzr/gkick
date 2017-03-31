@@ -1,0 +1,9 @@
+## Interface: 70200
+## Title: Gkick Counter
+## Author: Kevin
+## Version: 1.0
+## SavedVariables: TotalKicks Total_invites
+## SavedVariablesPerCharacter: ToonKicks Toon_invites
+ 
+ kick.lua
+ main.lua
